@@ -173,6 +173,6 @@ const styles = StyleSheet.create({
        width: 0,
        height: 6
      },
-    elevation : 16
+    elevation : 14
   }
 })
