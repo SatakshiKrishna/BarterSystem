@@ -46,7 +46,7 @@ export default class Exchange extends Component{
 
      // NOTE:  Comment the below return statement when you test the app in android
      return Alert.alert(
-          'Item ready to exchange',
+          'We are ready to exchange your item',
           '',
           [
             {text: 'OK', onPress: () => {
